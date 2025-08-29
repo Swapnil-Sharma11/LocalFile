@@ -1,2 +1,2 @@
 New repo for git learning
-Added a new line 
+Added a new line in feature1
